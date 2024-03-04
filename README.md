@@ -11,6 +11,7 @@ Using these modded .json files neccessitates increased regular restarts to preve
 It is suggested you thoroughly test your server after applying these files to ensure proper functioning of your server.
 
 cfggameplNotificationSchedulerSettings.json
+
   To install these files simply , upload these over the top of your existing files and restart your server.
 The .json works in conjuction, With Nitrado Automated restart. Set up Automated Restarts, Then Add .json, Restart The Server.
 
