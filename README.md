@@ -6,7 +6,7 @@ TERMS OF USE THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXP
 
 Using these modded .json file could break the functioning of your DAYZ server, requiring a reinstall that would wipe all player progress.
 
-Using these modded xml files neccessitates increased regular restarts to prevent server crashing.
+Using these modded .json files neccessitates increased regular restarts to prevent server crashing.
 
 It is suggested you thoroughly test your server after applying these files to ensure proper functioning of your server.
 
